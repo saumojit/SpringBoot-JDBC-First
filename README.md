@@ -5,7 +5,7 @@ H2 Database : It internally manages the url and other configurations unlike Post
 Postgresql : External DB - Required files : maven dependecy add to pom.xml and application.properties 
 For external db , add external db dependency and then change the application.properties for configuration
 
-* As of now , Code supports only one connection to one DB
+Note : As of now , Code supports only one connection to one DB
 
 
 JDBC Template --> 1. query() <RowMapper> 2.update()
